@@ -23,7 +23,17 @@ public class ClassesMetodos {
 		}
 			return numero * fatorial(numero - 1 );		
 		}
-
+//  Método 5:encontra o maior numero em um array:
+	public int maiorNumero(int[] numeros) {
+		int maior = numeros[0];
+		for( int numero : numeros) {
+			if( numero > maior ) {
+				maior = numero;
+			}
+		}
+		return maior;
+				}
+			
 	// Este método executa outros métodos!==============
 	public static void main(String[] args) {
 		// Instanciando a nossa que criamos:
@@ -33,6 +43,9 @@ public class ClassesMetodos {
 		System.out.println("Soma de 5 e 3: " + util.soma(5, 3));
 		System.out.println("O número 4 é par? " + util.ehPar(6));
 		System.out.println("String invertida de 'Java': " + util.invertString("Java"));
-		System.out.println("O fatorial de 5 é: " + util.fatorial(5) );
+		System.out.println("O fatorial de 5 é: " + util.fatorial(5) ); 
+		int[] numeros = {1,5,6,8,44};
+		System.out.println("O maior número do Array é:" + util.maiorNumero(numeros) );
+		
 	}
 }
