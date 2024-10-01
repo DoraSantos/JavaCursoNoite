@@ -14,5 +14,12 @@
 	<classpathentry kind="src" path="JurosCompostos"/>
 	<classpathentry kind="src" path="String"/>
 	<classpathentry kind="src" path="Classes"/>
+	<classpathentry kind="src" path="DiaDoMes"/>
+	<classpathentry kind="src" path="CopasDoMundo"/>
+	<classpathentry kind="src" path="Listas"/>
+	<classpathentry kind="src" path="ListaFrutas"/>
+	<classpathentry kind="src" path="ListaFrutas1"/>
+	<classpathentry kind="src" path="SorteiosPessoas"/>
+	<classpathentry kind="src" path="SortearPessoas"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
