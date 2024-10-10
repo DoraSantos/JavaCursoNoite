@@ -25,5 +25,7 @@
 	<classpathentry kind="src" path="Polimorfismo"/>
 	<classpathentry kind="src" path="API"/>
 	<classpathentry kind="src" path="CRUD"/>
+	<classpathentry kind="src" path="MediaIdade"/>
+	<classpathentry kind="src" path="Gerente"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
