@@ -27,5 +27,7 @@
 	<classpathentry kind="src" path="CRUD"/>
 	<classpathentry kind="src" path="MediaIdade"/>
 	<classpathentry kind="src" path="Gerente"/>
+	<classpathentry kind="src" path="Irterfaces"/>
+	<classpathentry kind="src" path="InterfacePagamentos"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
