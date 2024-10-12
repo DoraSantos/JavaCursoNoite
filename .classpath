@@ -29,5 +29,8 @@
 	<classpathentry kind="src" path="Gerente"/>
 	<classpathentry kind="src" path="Irterfaces"/>
 	<classpathentry kind="src" path="InterfacePagamentos"/>
+	<classpathentry kind="src" path="TryCatch"/>
+	<classpathentry kind="src" path="TryCatchDivisao"/>
+	<classpathentry kind="src" path="TryCatchLeitura"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
