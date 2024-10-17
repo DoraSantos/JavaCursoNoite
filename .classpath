@@ -35,5 +35,7 @@
 	<classpathentry kind="src" path="InterfaceGrafica"/>
 	<classpathentry kind="src" path="CalcularICM"/>
 	<classpathentry kind="src" path="Interface"/>
+	<classpathentry kind="src" path="JavaStream"/>
+	<classpathentry kind="src" path="CalculadoraW"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
