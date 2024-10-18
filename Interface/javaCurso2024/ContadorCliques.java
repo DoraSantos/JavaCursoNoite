@@ -40,7 +40,7 @@ package javaCurso2024;
 
 		    public static void main(String[] args) {
 		        // Criar e exibir a janela
-		        ContadorCliques frame = new ContadorCliques();
+		        ContadorCliquesD frame = new ContadorCliquesD();
 		        frame.setVisible(true); // Torna a janela visível
 		    }
 
