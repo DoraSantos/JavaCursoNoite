@@ -62,7 +62,7 @@ public class inteiro {
 				        double peso = scanner.nextDouble();
 
 				        // Exibir as informações do produto formatadas
-				        System.out.println("\nInformações do Produto:");
+				        System.out.println("\nInformações do SistemaDeVendasJFrame:");
 				        System.out.println("-------------------------");
 				        System.out.printf("Nome: %s\n", nome);
 				        System.out.printf("Quantidade: %d unidades\n", quantidade);

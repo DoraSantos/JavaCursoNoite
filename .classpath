@@ -37,5 +37,7 @@
 	<classpathentry kind="src" path="Interface"/>
 	<classpathentry kind="src" path="JavaStream"/>
 	<classpathentry kind="src" path="CalculadoraW"/>
+	<classpathentry kind="src" path="Encurtador"/>
+	<classpathentry kind="src" path="ProjetoInterfaceTCC"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
